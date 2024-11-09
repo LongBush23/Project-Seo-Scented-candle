@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://longbush23.github.io/Project-Seo-Scented-candle/sitemap.xml
